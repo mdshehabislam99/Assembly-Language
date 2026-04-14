@@ -2,22 +2,18 @@ dosseg
 .model small
 .stack 100h
 .data
-var1 db 53
 .code
 main proc
-mov ax, @data
-mov dx,ax
 
-mov dx,offset var1
-int 21h
-mov add,48
+mov cx,10
+l1:
+mov dx,'a'
 mov ah,2
 int 21h
+loop l1
 
 mov ah,4ch
 int 21h
 
 main endp
 end main
-
-

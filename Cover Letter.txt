@@ -1,0 +1,21 @@
+Cover Letter
+
+Subject: Application for MERN Stack Developer - [Your Name]
+
+Dear Hiring Manager
+
+I am writing to express my enthusiastic interest in the Frontend Developer position at Robusta Studio. Having followed Robusta Studio work in tech agency , I am particularly impressed by your recent project Kingdom Saudi Arabia most advanced off-road navigation platform. I am eager to bring my hands-on experience with Html, Css, JavaScript, React, Next.js to your engineering team.
+
+I have built and maintained full-stack web applications from scratch.Here’s how my background aligns with your needs:
+
+Frontend Expertise: I build responsive, component-driven UIs using React (Hooks, Context API, Redux Toolkit) and modern CSS frameworks like Tailwind or Material-UI. I focus on optimizing client-side performance to ensure sub-3-second load times.
+
+Tools: I am comfortable deploying Frontend on Vercel, Firebase, Netlify, and I use Git and Github to streamline collaboration.
+
+
+I would love the opportunity to discuss how my Frontend experience can help Robusta Studio achieve its next milestone, whether that’s launching a new MVP or scaling an existing platform. Thank you for your time and consideration.
+
+Best regards,
+Md Shehab Islam
+Phone: +919695903529
+Email: shihabkhanahab@gmail.com
