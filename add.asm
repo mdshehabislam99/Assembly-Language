@@ -15,6 +15,12 @@ add dl,48
 mov ah,2
 int 21h
 
+mov ah,13
+int 21h
+
+mov ah,10
+int 21h
+
 mov ah,4ch
 int 21h
 
