@@ -5,7 +5,7 @@ dosseg
 .code
 
 main proc
-mov cx, 5  ;for how many time loop is ongoing
+mov cx, 10  ;for how many time loop is ongoing
 mov bx,1   ;row size
 
 
@@ -16,10 +16,10 @@ mov cx, bx  ;inner counter set
 mov ah,2
 int 21h
 
-print_char:
+print_stars:
 mov dl, '*'
 int 21h
-loop print_char
+loop print_stars
 
 mov dl, 10        ;newline
 int 21h
